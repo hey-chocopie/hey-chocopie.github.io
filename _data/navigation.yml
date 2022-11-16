@@ -15,8 +15,8 @@ sidebar-category:
   - title: "카테고리"
     children:
       - title: "C++11"
-        url: "/C++11"
-      - title: "카테고리B"
-        url:  "/CategoryB"
-      - title: "카테고리C"
-        url:  "/CategoryC"
+        url: "/Cpp11"
+      - title: "C++14"
+        url:  "/Cpp14"
+      - title: "C++17"
+        url:  "/Cpp17"
