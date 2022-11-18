@@ -106,7 +106,7 @@ analytics:
 author:
   name             : "Hoyong Lee"
   avatar           : "image/profile/프로필사진.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "글쓰는 개발자 **호이리**."
+  bio              : "지금 내가 중요하다고 생각하는게 시간이 지나면 중요한 일이 아닐 수 있습니다.  즐기면서 개발 합시다."
   location         : "Republic of Korea"
   email            : "ghdyd6372@naver.com"
   links:
