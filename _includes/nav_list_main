@@ -19,7 +19,7 @@
                 <!--category[1].size 로 해당 카테고리를 가진 글의 개수 표시--> 
                 {% for category in site.categories %}
                     {% if category[0] == "Cpp11" %}
-                        <li><a href="/_categories/cpp" class="">C++11 ({{category[1].size}})</a></li>
+                        <li><a href="/categories/Cpp11" class="">C++11 2 ({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
             </ul>
